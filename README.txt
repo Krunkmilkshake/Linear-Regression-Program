@@ -1,0 +1,1 @@
+This Python program uses a set to perform the process of linear regression on a set of points. This refers to the mathematical process of determining the “best-fitting” line for a given collection of points.
